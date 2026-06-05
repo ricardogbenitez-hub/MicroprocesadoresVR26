@@ -2,6 +2,9 @@
 update_readme.py
 entregar.bat
 
+# Word — solo sube el PDF
+*.docx
+
 # Archivos de configuración de Claude
 CLAUDE.md
 
