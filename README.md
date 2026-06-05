@@ -14,6 +14,7 @@ Integrantes:
 |----------|------|---------|
 | Práctica 1 | Introducción al PIC16F887 — Contador binario y Walking bit | `Practica1_Microprocesadores.docx` |
 
+| Práctica 2 | Matriz de LEDs 8x8 | `Practica2_Microprocesadores.pdf` |
 ---
 
 ## Herramientas utilizadas
