@@ -1,0 +1,24 @@
+# Archivos de automatización (no van al repo del profe)
+update_readme.py
+entregar.bat
+
+# Archivos de configuración de Claude
+CLAUDE.md
+
+# Archivos temporales de Windows
+Thumbs.db
+desktop.ini
+*.tmp
+
+# MPLAB / XC8
+*.X/
+nbproject/
+build/
+dist/
+*.hex
+*.cof
+*.map
+*.lst
+
+# Proteus
+*.pdsprj.bak
