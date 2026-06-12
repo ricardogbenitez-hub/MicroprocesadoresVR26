@@ -18,6 +18,7 @@ Integrantes:
 | Práctica 4 | Puertos digitales y contador bidireccional | `Practica4_Microprocesadores.pdf` |
 | Práctica 5 | Displays de 7 segmentos y multiplexacion | `Practica5_Microprocesadores.pdf` |
 | Práctica 6 | LCD: HELLO WORLD y caracteres personalizados | `Practica6_Microprocesadores.pdf` |
+| Práctica 7 | Conversion analogica-digital con LCD y modos de medicion | `Practica7_Microprocesadores.pdf` |
 
 ## Herramientas utilizadas
 - Microcontrolador: PIC16F887
