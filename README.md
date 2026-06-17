@@ -21,6 +21,7 @@ Integrantes:
 | Práctica 7 | Conversion analogica-digital con LCD y modos de medicion | `Practica7_Microprocesadores.pdf` |
 | Práctica 8 | ADC multicanal con LCD de 2 lineas e interrupciones INT/IOC | `Practica8_Microprocesadores.pdf` |
 | Práctica 9 | ADC, Timer0 y LCD | `Practica9_Microprocesadores.pdf` |
+| Práctica 10 | Timer1 con ADC y LCD | `Practica10_Microprocesadores.pdf` |
 | Práctica Parcial | Videojuego con Joystick y LCD | `PracticaParcial_Microprocesadores.pdf` |
 
 ## Herramientas utilizadas
