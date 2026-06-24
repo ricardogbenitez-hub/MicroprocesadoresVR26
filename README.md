@@ -25,6 +25,7 @@ Integrantes:
 | Práctica 11 | PWM por hardware y software con ADC | `Practica11_Microprocesadores.pdf` |
 | Práctica 12 | Teclado Matricial y Calculadora con LCD | `Practica12_Microprocesadores.pdf` |
 | Práctica 13 | Control de Motor DC con PWM | `Practica13_Microprocesadores.pdf` |
+| Práctica 14 | Control de Servomotor con PWM | `Practica14_Microprocesadores.pdf` |
 | Práctica Parcial | Videojuego con Joystick y LCD | `PracticaParcial_Microprocesadores.pdf` |
 
 ## Herramientas utilizadas
