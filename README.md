@@ -27,6 +27,7 @@ Integrantes:
 | Práctica 13 | Control de Motor DC con PWM | `Practica13_Microprocesadores.pdf` |
 | Práctica 14 | Control de Servomotor con PWM | `Practica14_Microprocesadores.pdf` |
 | Práctica 15 | Comunicacion UART entre dos PIC | `Practica15_Microprocesadores.pdf` |
+| Práctica 16 | Proyecto Final Banda Transportadora | `Practica16_Microprocesadores.pdf` |
 | Práctica Parcial | Videojuego con Joystick y LCD | `PracticaParcial_Microprocesadores.pdf` |
 
 ## Herramientas utilizadas
