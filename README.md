@@ -24,6 +24,7 @@ Integrantes:
 | Práctica 10 | Timer1 con ADC y LCD | `Practica10_Microprocesadores.pdf` |
 | Práctica 11 | PWM por hardware y software con ADC | `Practica11_Microprocesadores.pdf` |
 | Práctica 12 | Teclado Matricial y Calculadora con LCD | `Practica12_Microprocesadores.pdf` |
+| Práctica 13 | Control de Motor DC con PWM | `Practica13_Microprocesadores.pdf` |
 | Práctica Parcial | Videojuego con Joystick y LCD | `PracticaParcial_Microprocesadores.pdf` |
 
 ## Herramientas utilizadas
